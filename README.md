@@ -1,3 +1,5 @@
+# This e-commerce project is a comprehensive online store designed to sell clothing, featuring user-friendly navigation, product categories, and detailed item pages.
+
 ## Here,An Responsive E-Commerce Online Cloth Store Website
 * Part1: Responsive Home Page Design.
 * Part2: Shop Page & Single Product Page.
